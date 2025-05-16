@@ -2,7 +2,7 @@
 
 The questions in this quiz are multiple choice. To answer the questions, edit this file and in the space after 'Answer: ' insert the number corresponding to your choice. e.g.
 
-> Answer: 3
+> Answer: 3 
 
 When you have finished answering questions, commit your changes and push the commit back to GitHub.
 
